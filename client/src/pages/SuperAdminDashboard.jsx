@@ -74,7 +74,7 @@ const SuperAdminDashboard = () => {
               value={formData.slug}
               onChange={handleChange}
               required
-              placeholder="e.g., harvard (for harvard.localhost)"
+              placeholder="e.g., harvard (for harvard.edu)"
             />
             <Input
               label="Domain"

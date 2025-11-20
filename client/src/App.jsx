@@ -57,7 +57,7 @@ const AppContent = () => {
       <div className="min-h-screen flex flex-col items-center justify-center bg-slate-50">
         <h1 className="text-4xl font-bold text-slate-900 mb-4">Campus Not Found</h1>
         <p className="text-slate-500 mb-8">The college you are looking for does not exist.</p>
-        <a href="http://localhost:3000" className="text-violet-600 hover:underline">Go to Main Portal</a>
+        <a href="/" className="text-violet-600 hover:underline">Go to Main Portal</a>
       </div>
     );
   }
